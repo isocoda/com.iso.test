@@ -9,7 +9,7 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 
 		Main main = new Main();
-		main.helloWorld();
+		System.out.println(main.helloWorld());
 	}
 
 	public String helloWorld() {
