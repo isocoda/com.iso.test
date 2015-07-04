@@ -14,7 +14,7 @@ public class Main {
 
 	public String helloWorld() {
 		// TODO 自動生成されたメソッド・スタブ
-		String str = "Hello World.";
+		String str = "Hello World!";
 		return str;
 	}
 
